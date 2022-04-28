@@ -4,6 +4,7 @@ Decidimos hacer nuestro prototipo de media fidelidad en Moqups usando *Interacti
 
 [Link al prototipo](https://app.moqups.com/a4XSqy9iyFDoWHIkiGq2jcIYFxC8B5Jk/view/page/a5b4ae4f3)
 
+Incluimos capturas de pantalla en [screenshots/](https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/tree/main/Prototipo/screenshots/)
 ## Funcionalidades
 
 Las funcionalidades/stories que decidimos incluir en este prototipo son:
