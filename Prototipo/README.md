@@ -16,7 +16,7 @@ Las funcionalidades/stories que decidimos incluir en este prototipo son:
 
 ## Pruebas
 
-Para las pruebas, decidimos aprovechar que Moqups te permite utilizar *Interactions* para simular el flujo de nuestra app. Utilizamos algo parecido a guerrilla testing con los miembros de nuestra familia, ya que les pedíamos completar ciertos objetivos sin darles mayor información. Por ejemplo, les pedimos acceder a la aplicación suponiendo que no tienen cuenta, o añadir un platillo a su carrito y después cancelar su pedido. 
+Para las pruebas, decidimos aprovechar que Moqups te permite utilizar *Interactions* para simular el flujo de nuestra app. Utilizamos algo parecido a *guerrilla testing* con los miembros de nuestra familia, ya que les pedíamos completar ciertos objetivos sin darles mayor información. Por ejemplo, les pedimos acceder a la aplicación suponiendo que no tienen cuenta, o añadir un platillo a su carrito y después cancelar su pedido. 
 
 Los testers pudieron completar los objetivos que les asignamos en un tiempo razonable (menor a 2 minutos) y sin mucha complicación.
 
