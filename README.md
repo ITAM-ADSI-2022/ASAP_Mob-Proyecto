@@ -36,8 +36,12 @@ La ventaja de concentrar la información de las Personas de esta manera es, adem
 
 ### Escenarios
 
-Una Persona siempre se desenvuelve en un escenario. Esta herramienta de UX consiste en son escenalistas que representan la interacción entre una herramienta y el 
-usuario. Permiten que los desarrolladores y los clientes se imaginen su interacción con el sistema en su vida diaria. 
+Una Persona siempre se desenvuelve en un escenario. Esta herramienta de UX consiste en "escenas realistas que representan la interacción entre una herramienta y el 
+usuario. Permiten que los desarrolladores y los clientes se imaginen su interacción con el sistema en su vida diaria."
+
+Una vez que teniamos claras nuestras Personas, es decir, los usuarios típicos de nuestra aplicación, modelamos un escenario típico en el que se desenvolvería cada una de ellas, resultando lo siguiente: 
+
+
 
 ### Customer Journey
 
