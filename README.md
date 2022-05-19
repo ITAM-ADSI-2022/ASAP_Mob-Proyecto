@@ -2,6 +2,7 @@
 Proyecto final sobre la cafeteria del ITAM
 
 
+
   - [Primera Entrega: Personas, Escenarios y Customer Journey](#primera-entrega-personas-escenarios-y-customer-journey)
     - [Personas](#personas)
     - [Escenarios](#escenarios)
@@ -11,6 +12,7 @@ Proyecto final sobre la cafeteria del ITAM
     - [Pruebas](#pruebas)
   - [Tercera Entrega: Stories](#tercera-entrega-stories)
   - [Cuarta Entrega: Prototipo de Alta Fidelidad](#cuarta-entrega-prototipo-de-alta-fidelidad)
+    - [Demos](#demos)
 
 ---
 ## Primera Entrega: Personas, Escenarios y Customer Journey
@@ -55,6 +57,8 @@ Los testers pudieron completar los objetivos que les asignamos en un tiempo razo
 Para la implementación del prototipo de alta fidelidad optamos por usar Flutter, un framework para aplicaciones móviles y web de Google. Consideramos que su enfoque en la iteración veloz del diseño (con su hot reload) y su soporte de plataformas IOS, Android y web, lo hizo ideal para una implementación rápida pero de alta fidelidad. 
 
 El código de la implementación se encuentra en [Prototipo De Alta Fidelidad/cafeitam/](https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/tree/main/Prototipo%20De%20Alta%20Fidelidad/cafeitam)
+
+### Demos
 
 A continuación mostramos demos de las funcionalidades en las stories de la tercera entrega. 
 
