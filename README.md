@@ -50,6 +50,7 @@ Cada escenario se construye a partir de 5 partes principales:
 Una vez que teniamos claras nuestras Personas, es decir, los usuarios típicos de nuestra aplicación, modelamos un escenario típico en el que se desenvolvería cada una de ellas, resultando escenarios como el siguiente: 
 
 Escenario de Teodoro.
+
 Son las 7 de la mañana, Teodoro llega apurado al ITAM y entra a su clase de Teoría de Control.
 El día anterior estuvo trabajando hasta altas horas de la noche en la oficina, por lo que
 despertó tan tarde que apenas tuvo tiempo de alistar su mochila antes de salir de casa. Debido
@@ -72,11 +73,19 @@ Ahora Teodoro se encuentra feliz porque su desayuno estuvo delicioso, logró com
 tiempo estimado y ahora puede regresar con el estómago satisfecho a su clase para prestar
 atención y no preocuparse más de aquel vergonzoso evento.
 
-Si desea consultar el resto de escenarios, puede encontrarlos [aquí](https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Escenarios/escenarios.pdf)
+Si desea consultar el resto de escenarios, puede encontrarlos [aquí](https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Escenarios/escenarios.pdf).
 
 ### Customer Journey
 
----
+Un Customer Journey es una presentación visual de la historia de una Persona con un servicio o producto. Es decir, junta lo anterior (las personas y sus respectivos escenarios) y cuenta la historia de la experiencia del usuario con el provedor del servicio. 
+
+Esta herramienta toma en cuenta, como ya se mencionó, las personas y escenarios. Pero, además contempla las **emociones** que se producen en el usuario, los **touchpoints** de la relación cliente-producto y el **canal** por el que sucede dicha relación sucede.
+
+En nuestro caso, el Customer Journey se desarrolla así...
+
+![customerJourney](https://user-images.githubusercontent.com/101894380/169356911-5c69af34-b7af-4773-9023-0f08ab65a45b.png)
+
+Si desea ver más a detalle este Customer Journey, puede hacerlo [aquí]https://raw.githubusercontent.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/main/Customer%20Journey/customerJourney.png.
 
 ## Segunda Entrega: Prototipo de Media Fidelidad
 
