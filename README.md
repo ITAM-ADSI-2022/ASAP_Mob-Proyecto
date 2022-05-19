@@ -39,9 +39,40 @@ La ventaja de concentrar la información de las Personas de esta manera es, adem
 Una Persona siempre se desenvuelve en un escenario. Esta herramienta de UX consiste en "escenas realistas que representan la interacción entre una herramienta y el 
 usuario. Permiten que los desarrolladores y los clientes se imaginen su interacción con el sistema en su vida diaria."
 
-Una vez que teniamos claras nuestras Personas, es decir, los usuarios típicos de nuestra aplicación, modelamos un escenario típico en el que se desenvolvería cada una de ellas, resultando lo siguiente: 
+Cada escenario se construye a partir de 5 partes principales:
 
+- *Contexto*
+- *Triger*
+- *Acción*
+- *Inputs*
+- *Espectativas*
 
+Una vez que teniamos claras nuestras Personas, es decir, los usuarios típicos de nuestra aplicación, modelamos un escenario típico en el que se desenvolvería cada una de ellas, resultando escenarios como el siguiente: 
+
+Escenario de Teodoro.
+Son las 7 de la mañana, Teodoro llega apurado al ITAM y entra a su clase de Teoría de Control.
+El día anterior estuvo trabajando hasta altas horas de la noche en la oficina, por lo que
+despertó tan tarde que apenas tuvo tiempo de alistar su mochila antes de salir de casa. Debido
+a la falta de tiempo olvidó su lonche y se muere de hambre.
+Una vez avanzada la clase, en medio de un momento de silencio, las tripas de Teodoro “rugen”
+por el hambre que tiene, lo que lo apena mucho. Sabe que si no hace nada al respecto este
+vergonzoso evento se repetirá, además de que ni siquiera puede prestar atención.
+Instantáneamente recuerda que el ITAM lanzó una nueva aplicación de la cafetería en la que
+puede pedir su desayuno y después pasar a recogerlo. De esta manera, Teodoro descarga la
+aplicación móvil en Apple Store, espera a que se instale y, cuando este proceso termina, abre
+con apuro la aplicación e ingresa su correo y contraseña institucional. Se despliega el menú de
+cafetería ITAM y, por la rapidez con la que pueden ser preparados, elige unos chilaquiles
+verdes y señala que hará el pago en efectivo.
+Teoría de Control es la materia más difícil de su plan de estudios, por lo que no puede
+permitirse ausentarse por mucho tiempo. Con esto en mente, programa su pedido para ser
+recogido en 5 minutos y espera poder terminar sus chilaquiles en aproximadamente 10
+minutos.
+Cumplidos los 5 minutos, se dirige con prisa a la cafetería, paga y recibe sus chilaquiles verdes.
+Ahora Teodoro se encuentra feliz porque su desayuno estuvo delicioso, logró comerlo en el
+tiempo estimado y ahora puede regresar con el estómago satisfecho a su clase para prestar
+atención y no preocuparse más de aquel vergonzoso evento.
+
+Si desea consultar el resto de escenarios, puede encontrarlos [aquí](https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Escenarios/escenarios.pdf)
 
 ### Customer Journey
 
