@@ -5,11 +5,6 @@ Proyecto final sobre la cafeteria del ITAM
 
   - [Primera Entrega: Personas, Escenarios y Customer Journey](#primera-entrega-personas-escenarios-y-customer-journey)
     - [Personas](#personas)
-    Recordando lo aprendido en clase, una persona es "un perfil, un **arquetipo**,  que  incluye  una  definición  de características  generales,  así  como elementos  contextuales  que  permitan entender  las  perspectivas,  creencias, aptitudes, actitudes, del usuario al que ésta representa. Es un personaje ficticio, pero 
-realista que representa al usuario." 
-
-Con lo anterior en mente y con la visión de lo que deseabamos que fuera nuestra aplicación y la interacción qu ofrecería al usuario. Decidimos crear las siguientes Personas:
-    
     - [Escenarios](#escenarios)
     - [Customer Journey](#customer-journey)
   - [Segunda Entrega: Prototipo de Media Fidelidad](#segunda-entrega-prototipo-de-media-fidelidad)
@@ -22,6 +17,23 @@ Con lo anterior en mente y con la visión de lo que deseabamos que fuera nuestra
 ---
 ## Primera Entrega: Personas, Escenarios y Customer Journey
 ### Personas
+
+  Recordando lo aprendido en clase, una persona es "un perfil, un **arquetipo**,  que  incluye  una  definición  de características  generales,  así  como elementos  contextuales  que  permitan entender  las  perspectivas,  creencias, aptitudes, actitudes, del usuario al que ésta representa. Es un personaje ficticio, pero 
+realista que representa al usuario." 
+
+Con lo anterior en mente y con la visión de lo que deseabamos que fuera nuestra aplicación y la interacción qu ofrecería al usuario. Decidimos crear las siguientes Personas:
+
+- Alicia, estudiante. https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Personas/Alicia.png
+- Mauricio, personal administrativo. https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Personas/Mauricio.png
+- Sandra Figueroa, profesora. https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Personas/Sandra%20Figueroa.png
+- Teodoro, estudiante. https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Personas/Teodoro.jpeg
+
+Por ejemplo, la Persona construida de un usuario típico, en este caso el de Alicia, luce así:
+
+![image](https://user-images.githubusercontent.com/101894380/169352455-07af61ba-9558-4278-9704-425dfc65cdf9.png)
+
+La ventaja de concentrar la información de las Personas de esta manera es, además de la organización que ofrece, que podemos definirlas por diferentes rubros. Por ejemplo, por lo que buscan, hobbies, habilidades, metas, edad, etc. 
+
 ### Escenarios
 ### Customer Journey
 
