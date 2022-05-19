@@ -5,6 +5,11 @@ Proyecto final sobre la cafeteria del ITAM
 
   - [Primera Entrega: Personas, Escenarios y Customer Journey](#primera-entrega-personas-escenarios-y-customer-journey)
     - [Personas](#personas)
+    Recordando lo aprendido en clase, una persona es "un perfil, un **arquetipo**,  que  incluye  una  definición  de características  generales,  así  como elementos  contextuales  que  permitan entender  las  perspectivas,  creencias, aptitudes, actitudes, del usuario al que ésta representa. Es un personaje ficticio, pero 
+realista que representa al usuario." 
+
+Con lo anterior en mente y con la visión de lo que deseabamos que fuera nuestra aplicación y la interacción qu ofrecería al usuario. Decidimos crear las siguientes Personas:
+    
     - [Escenarios](#escenarios)
     - [Customer Journey](#customer-journey)
   - [Segunda Entrega: Prototipo de Media Fidelidad](#segunda-entrega-prototipo-de-media-fidelidad)
