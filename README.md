@@ -52,4 +52,44 @@ Los testers pudieron completar los objetivos que les asignamos en un tiempo razo
 
 ## Cuarta Entrega: Prototipo de Alta Fidelidad 
 
+Para la implementación del prototipo de alta fidelidad optamos por usar Flutter, un framework para aplicaciones móviles y web de Google. Consideramos que su enfoque en la iteración veloz del diseño (con su hot reload) y su soporte de plataformas IOS, Android y web, lo hizo ideal para una implementación rápida pero de alta fidelidad. 
+
+El código de la implementación se encuentra en [Prototipo De Alta Fidelidad/cafeitam/](https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/tree/main/Prototipo%20De%20Alta%20Fidelidad/cafeitam)
+
+A continuación mostramos demos de las funcionalidades en las stories de la tercera entrega. 
+
+- *Como usuario, me registro con mi correo del ITAM.*
+
+
+  ![gif registro](Prototipo%20De%20Alta%20Fidelidad/gifs/registro.gif)
+
+
+- *Como usuario, ingreso a la aplicación con mi cuenta.*
+
+  ![gif login](Prototipo%20De%20Alta%20Fidelidad/gifs/login.gif)
+
+
+- *Como usuario, ordeno el menú del día.*
+
+
+  ![gif menu dia](Prototipo%20De%20Alta%20Fidelidad/gifs/pedirMenuDelDia.gif)
+
+
+- *Como usuario, agrego productos al carrito* y *Como usuario, selecciono el horario de entrega.*
+
+
+  ![gif carrito y checkout](Prototipo%20De%20Alta%20Fidelidad/gifs/pedidoGeneral.gif)
+
+
+- *Como staff de cafetería, veo las órdenes realizadas en orden* y *Como staff de cafetería, registro la entrega de una orden.*
+
+
+  ![gif registro](Prototipo%20De%20Alta%20Fidelidad/gifs/cafeDespachaOrdenes.gif)
+
+
+
+- *Como staff de cafetería, actualizo el menú del día.*
+
+
+  ![gif registro](Prototipo%20De%20Alta%20Fidelidad/gifs/editarMenuDelDia.gif)
 
