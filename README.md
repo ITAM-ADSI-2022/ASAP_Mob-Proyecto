@@ -21,7 +21,7 @@ Proyecto final sobre la cafeteria del ITAM
   Recordando lo aprendido en clase, una persona es "un perfil, un **arquetipo**,  que  incluye  una  definición  de características  generales,  así  como elementos  contextuales  que  permitan entender  las  perspectivas,  creencias, aptitudes, actitudes, del usuario al que ésta representa. Es un personaje ficticio, pero 
 realista que representa al usuario." 
 
-Con lo anterior en mente y con la visión de lo que deseabamos que fuera nuestra aplicación y la interacción qu ofrecería al usuario. Decidimos crear las siguientes Personas:
+Con lo anterior en mente y con la visión de lo que deseabamos que fuera nuestra aplicación y la interacción que ofrecería al usuario. Decidimos crear las siguientes Personas:
 
 - Alicia, estudiante. https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Personas/Alicia.png
 - Mauricio, personal administrativo. https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Personas/Mauricio.png
@@ -35,6 +35,10 @@ Por ejemplo, la Persona construida de un usuario típico, en este caso el de Ali
 La ventaja de concentrar la información de las Personas de esta manera es, además de la organización que ofrece, que podemos definirlas por diferentes rubros. Por ejemplo, por lo que buscan, hobbies, habilidades, metas, edad, etc. 
 
 ### Escenarios
+
+Una Persona siempre se desenvuelve en un escenario. Esta herramienta de UX consiste en son escenalistas que representan la interacción entre una herramienta y el 
+usuario. Permiten que los desarrolladores y los clientes se imaginen su interacción con el sistema en su vida diaria. 
+
 ### Customer Journey
 
 ---
