@@ -1,6 +1,5 @@
 import 'package:cafeitam/adminPage.dart';
 import 'package:cafeitam/data/actual.dart';
-import 'package:cafeitam/data/usuariosData.dart';
 import 'package:cafeitam/home.dart';
 import 'package:cafeitam/palette.dart';
 import 'package:cafeitam/registro.dart';

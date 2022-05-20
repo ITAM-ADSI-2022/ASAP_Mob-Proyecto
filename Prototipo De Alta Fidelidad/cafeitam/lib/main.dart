@@ -1,9 +1,6 @@
-import 'package:cafeitam/adminPage.dart';
-import 'package:cafeitam/editarMenuDelDia.dart';
 import 'package:cafeitam/login.dart';
 import 'package:flutter/material.dart';
 import 'palette.dart';
-import 'home.dart';
 
 void main() {
   runApp(MyApp());

@@ -1,4 +1,3 @@
-import 'package:badges/badges.dart';
 import 'package:cafeitam/carrito.dart';
 import 'package:cafeitam/carritoObj.dart';
 import 'package:cafeitam/data/menuCategorias.dart';

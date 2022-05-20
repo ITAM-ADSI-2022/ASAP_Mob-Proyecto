@@ -2,7 +2,6 @@ import 'package:cafeitam/data/actual.dart';
 import 'package:cafeitam/data/menuCategorias.dart';
 import 'package:cafeitam/data/menuData.dart';
 import 'package:cafeitam/detalles.dart';
-import 'package:cafeitam/home.dart';
 import 'package:cafeitam/utils/functionality.dart';
 import 'package:cafeitam/widgets/tappableCard.dart';
 import 'package:flutter/material.dart';
