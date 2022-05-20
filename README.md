@@ -1,5 +1,18 @@
 # CafeITAM: A$AP MOB 
-Proyecto final sobre la cafeteria del ITAM
+
+
+Proyecto final para la materia de Análisis Y Diseño De Sistemas De Información (COM-12102) @[ITAM](https://itam.mx), Primavera 2022. 
+
+El objetivo es aplicar los principios de diseño UX centrado en usuarios y principios ágiles para planear, prototipar e implementar una aplicación (móvil para usuarios, web para el personal) para ordenar comida de la cafetería del ITAM.
+
+Los integrantes del equipo (alfabéticamente) son:
+
+- Emilio Cantú (189409)
+- Jonathan Gutiérrez (191001)
+- Josue Chicatti (191169)
+- Pedro Olivares (190198)
+
+---
 
 
 
@@ -23,10 +36,10 @@ realista que representa al usuario."
 
 Con lo anterior en mente y con la visión de lo que deseabamos que fuera nuestra aplicación y la interacción que ofrecería al usuario. Decidimos crear las siguientes Personas:
 
-- Alicia, estudiante. https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Personas/Alicia.png
-- Mauricio, personal administrativo. https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Personas/Mauricio.png
-- Sandra Figueroa, profesora. https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Personas/Sandra%20Figueroa.png
-- Teodoro, estudiante. https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Personas/Teodoro.jpeg
+- [Alicia, estudiante.](https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Personas/Alicia.png)
+- [Mauricio, personal administrativo.](https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Personas/Mauricio.png)
+- [Sandra Figueroa, profesora.](https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Personas/Sandra%20Figueroa.png)
+- [Teodoro, estudiante.](https://github.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/blob/main/Personas/Teodoro.jpeg)
 
 Por ejemplo, la Persona construida de un usuario típico, en este caso el de Alicia, luce así:
 
@@ -86,6 +99,8 @@ En nuestro caso, el Customer Journey se desarrolla así...
 ![customerJourney](https://user-images.githubusercontent.com/101894380/169356911-5c69af34-b7af-4773-9023-0f08ab65a45b.png)
 
 Si desea ver más a detalle este Customer Journey, puede hacerlo [aquí](https://raw.githubusercontent.com/ITAM-ADSI-2022/ASAP_Mob-Proyecto/main/Customer%20Journey/customerJourney.png).
+
+---
 
 ## Segunda Entrega: Prototipo de Media Fidelidad
 
