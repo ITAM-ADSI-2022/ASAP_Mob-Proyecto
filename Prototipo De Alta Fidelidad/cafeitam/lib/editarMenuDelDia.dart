@@ -1,9 +1,6 @@
-import 'package:cafeitam/adminPage.dart';
 import 'package:cafeitam/data/actual.dart';
 import 'package:cafeitam/data/menuCategorias.dart';
 import 'package:cafeitam/data/menuData.dart';
-import 'package:cafeitam/login.dart';
-import 'package:cafeitam/misOrdedes.dart';
 import 'package:cafeitam/utils/functionality.dart';
 import 'package:flutter/material.dart';
 
@@ -15,7 +12,6 @@ class EditarMenuDia extends StatefulWidget {
 }
 
 class _EditarMenuDiaState extends State<EditarMenuDia> {
-  final _formKey = GlobalKey<FormState>();
   int _sopa = DatosActuales.menuDelDia["Sopas"];
   int _fuerte = DatosActuales.menuDelDia["Platos Fuertes"];
   int _bebida = DatosActuales.menuDelDia["Bebidas"];

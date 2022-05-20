@@ -1,5 +1,4 @@
 import 'package:cafeitam/carrito.dart';
-import 'package:cafeitam/carritoObj.dart';
 import 'package:cafeitam/utils/functionality.dart';
 import 'package:flutter/material.dart';
 
