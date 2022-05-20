@@ -1,5 +1,18 @@
 # CafeITAM: A$AP MOB 
-Proyecto final sobre la cafeteria del ITAM
+
+
+Proyecto final para la materia de Análisis Y Diseño De Sistemas De Información (COM-12102) @[ITAM](https://itam.mx), Primavera 2022. 
+
+El objetivo es aplicar los principios de diseño UX centrado en usuarios y principios ágiles para planear, prototipar e implementar una aplicación (móvil para usuarios, web para el personal) para ordenar comida de la cafetería del ITAM.
+
+Los integrantes del equipo (alfabéticamente) son:
+
+- Emilio Cantú (189409)
+- Jonathan Gutiérrez (191001)
+- Josue Chicatti (191169)
+- Pedro Olivares (190198)
+
+---
 
 
 
