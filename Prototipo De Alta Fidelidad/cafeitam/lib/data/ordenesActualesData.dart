@@ -21,6 +21,15 @@ Map ordenesActualesData = {
     "fecha": DateTime.now(),
     "total": 125,
   },
+  1005: {
+    "folio": 1005,
+    "items": {14: 1, 4: 1, 20: 2},
+    "idPidio": "jony@itam.mx",
+    "comentario": "",
+    "horaDeEntrega": TimeOfDay(hour: 14, minute: 30),
+    "fecha": DateTime.now(),
+    "total": 125,
+  },
   1009: {
     "folio": 1009,
     "items": {0: 1},
