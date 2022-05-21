@@ -129,6 +129,8 @@ Los testers pudieron completar los objetivos que les asignamos en un tiempo razo
 
 ## Tercera Entrega: Stories
 
+Ver Projects > Cafe ITAM para ver las stories y backlog priorizado de la tercera entrega.
+
 ---
 
 
